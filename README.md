@@ -27,5 +27,5 @@ See the screen capture below or simply click [here](https://mmuratardag.github.i
 ![plotly_map](screen_capture.gif)
 
 Download the following files to replicate the analysis. There is also a sample data, however I am not allowed to push the data to GitHub due to redistribution of the raw data restrictions.
-- [TS_data_prophet.py](TS_data_prophet_upd.py)
+- [TS_data_prophet.py](TS_data_prophet.py)
 - [TS_data_prophet_plotly.py](TS_data_prophet_plotly.py)
