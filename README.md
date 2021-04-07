@@ -22,7 +22,7 @@ Geojson comes from [here](https://github.com/funkeinteraktiv/Berlin-Geodaten).
 
 The ```plotly``` visualization is adopted from [Paul Wlodkowski](https://github.com/pawlodkowski)'s super helpful tutorial that is available [here](https://github.com/pawlodkowski/interactive_climate_map).
 
-See the screen capture below or simply click [here](https://mmuratardag.github.io/berlin_interactive_map.html).
+See the screen capture below or simply click [here](https://mmuratardag.github.io/static/berlin_interactive_map.html).
 
 ![plotly_map](screen_capture.gif)
 
